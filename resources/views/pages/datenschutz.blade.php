@@ -18,7 +18,7 @@
             
             <h2 class="text-base font-bold text-slate-900 border-b border-slate-200 pb-2">1. Datenschutz auf einen Blick</h2>
             <p>
-                Der Schutz Ihrer persönlichen Daten ist für die <strong>L&P Kapital verwaltungs GmbH</strong> (Grosse Bleichen 34, 20354 Hamburg) von höchster Bedeutung. Diese Datenschutzerklärung informiert Sie darüber, wie wir personenbezogene Daten auf Sparzinsvergleich24 verarbeiten.
+                Der Schutz Ihrer persönlichen Daten ist für die <strong>L&P Kapitalverwaltungs GmbH</strong> (Grosse Bleichen 34, 20354 Hamburg) von höchster Bedeutung. Diese Datenschutzerklärung informiert Sie darüber, wie wir personenbezogene Daten auf Sparzinsvergleich24 verarbeiten.
             </p>
 
             <h2 class="text-base font-bold text-slate-900 border-b border-slate-200 pb-2">2. Verantwortliche Stelle</h2>
