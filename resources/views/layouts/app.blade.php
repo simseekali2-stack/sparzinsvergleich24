@@ -99,7 +99,7 @@
                 </div>
 
                 <a href="{{ route('home') }}" class="flex flex-col items-center group text-center">
-                    <img src="{{ asset('images/logo.svg') }}" alt="SparZinsVergleich24" class="h-10 sm:h-14 w-auto transition-transform group-hover:scale-102">
+                    @include('partials.logo')
                 </a>
 
                 <div class="flex items-center space-x-2">
@@ -157,7 +157,9 @@
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 space-y-8">
             <div class="grid grid-cols-1 md:grid-cols-4 gap-8">
                 <div class="space-y-3">
-                    <img src="{{ asset('images/logo.svg') }}" alt="SparZinsVergleich24" class="h-10 w-auto">
+                    <div class="w-48">
+                        @include('partials.logo')
+                    </div>
                     <p class="text-slate-400 leading-relaxed text-xs font-serif">
                         SparZinsVergleich24 ist das unabhängige Finanzmedien-Portal der L&P Kapitalverwaltungs GmbH.
                     </p>
