@@ -1,6 +1,6 @@
 @extends('layouts.app')
 
-@section('title', 'Tagesgeld-Vergleich 2026 - Täglich verfügbar & Hohe Zinsen - FestgeldFinder24')
+@section('title', 'Tagesgeld-Vergleich 2026 - Täglich verfügbar & Hohe Zinsen - Sparzinsvergleich24')
 @section('meta_description', 'Vergleichen Sie die besten Tagesgeld-Konten in Deutschland. Täglich verfügbares Guthaben mit Top-Zinsen und 100.000 € Einlagensicherung.')
 
 @section('content')

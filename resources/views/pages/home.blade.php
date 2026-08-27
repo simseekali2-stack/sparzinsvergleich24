@@ -1,6 +1,6 @@
 @extends('layouts.app')
 
-@section('title', 'FestgeldFinder24 - Zeitung für Wirtschaft, Börse & Finanzen')
+@section('title', 'Sparzinsvergleich24 - Zeitung für Wirtschaft, Börse & Finanzen')
 
 @section('content')
 

@@ -1,6 +1,6 @@
 @extends('layouts.app')
 
-@section('title', $article['title'] . ' - FestgeldFinder24')
+@section('title', $article['title'] . ' - Sparzinsvergleich24')
 @section('meta_description', $article['excerpt'])
 
 @section('content')
@@ -96,7 +96,7 @@
                         <h4 class="font-bold text-slate-900 text-sm">{{ $article['author'] }}</h4>
                         <p class="text-xs text-slate-500 font-medium mb-1">{{ $article['author_role'] }}</p>
                         <p class="text-xs text-slate-600 leading-relaxed">
-                            Wirtschafts- und Finanzredakteur bei FestgeldFinder24. Berichtet über Makroökonomie, Geldpolitik der EZB und Konjunkturentwicklungen.
+                            Wirtschafts- und Finanzredakteur bei Sparzinsvergleich24. Berichtet über Makroökonomie, Geldpolitik der EZB und Konjunkturentwicklungen.
                         </p>
                     </div>
                 </div>

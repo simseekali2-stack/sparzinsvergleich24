@@ -1,6 +1,6 @@
 @extends('layouts.app')
 
-@section('title', 'Festgeld-Übersicht 2026 - Zinskonditionen & Banken - FestgeldFinder24')
+@section('title', 'Festgeld-Übersicht 2026 - Zinskonditionen & Banken - Sparzinsvergleich24')
 @section('meta_description', 'Übersicht der besten Festgeld-Angebote in Deutschland. Garantierte Zinsen bis zu 4,10 % p.a. mit 100.000 € gesetzlicher Einlagensicherung.')
 
 @section('content')

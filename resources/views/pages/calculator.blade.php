@@ -1,6 +1,6 @@
 @extends('layouts.app')
 
-@section('title', 'Zinsrechner & Zinseszins-Rechner 2026 - FestgeldFinder24')
+@section('title', 'Zinsrechner & Zinseszins-Rechner 2026 - Sparzinsvergleich24')
 @section('meta_description', 'Berechnen Sie Ihren Zinsertrag für Festgeld und Tagesgeld exakt mit Zinseszins und optionalem Abzug von Abgeltungsteuer.')
 
 @section('content')

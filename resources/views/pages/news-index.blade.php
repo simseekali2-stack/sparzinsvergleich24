@@ -1,6 +1,6 @@
 @extends('layouts.app')
 
-@section('title', 'Finanz-Nachrichten & Festgeld Ratgeber - FestgeldFinder24')
+@section('title', 'Finanz-Nachrichten & Festgeld Ratgeber - Sparzinsvergleich24')
 @section('meta_description', 'Tägliche Berichte zu EZB-Entscheidungen, Festgeld-Vergleichen, Tagesgeld Zinsen und sicheren Anlagestrategien in Deutschland.')
 
 @section('content')
